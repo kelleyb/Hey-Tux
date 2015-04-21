@@ -16,7 +16,7 @@ It's super easy to set this up! Just run the setup file provided using either
 
 or 
 
-    chmod +x
+    chmod +x setup
     ./setup
 
 and enter your root password so the executable can be moved over to your /bin/ folder. 
