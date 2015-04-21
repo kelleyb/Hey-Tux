@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+g++ hey.cpp -o hey
+sudo cp hey /bin/hey
