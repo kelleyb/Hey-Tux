@@ -1,16 +1,18 @@
 # Hey Tux
-A quick tool I made to help with any questions you have.
+The Cloud AI is becoming ever more prevalent. Almost every operating system in existence has a digital assistant, but until now there was no acceptable implementation for the best operating system in existance, GNU/Linux. Until now, that is.
 
-So many operating systems nowadays have helpers. We've got Google Now, Cortana, Siri, and more! However, there isn't really one for Linux. This project aims to fix that.
+Hey Tux is a business facing solution which aims to reinvent scalable query resolution by crowdsourcing answers and offloading CPU cycles. This product will recontextualize paradigms and demonstrate bleeding-edge performance in narrative by revolutionizing the way we consume data.
 
-Hey Tux is simple and easy to use! All you need to do is run this:
+This product is easy to deploy on your production and development environments, and even easier to use. Its advanced natural language processing understands grammar, and will offload extra processing to external servers to increase energy efficiency and save the environment.
+
+To use this product, simply type:
 
     hey tux, question...
 
-Where "question..." is whatever you want to know. Tux will then direct you to the answer!
+Into your terminal, where "question..." is whatever you want to know. Our patented algorithm will then direct you to the answer, while maintaining the feel of the Linux community.
 
 ##Compilation and setup:
-It's super easy to set this up! Just run the setup file provided using either
+Deployment is extremely easy. Just type:
 
     bash setup
 
@@ -21,4 +23,4 @@ or
 
 and enter your root password so the executable can be moved over to your /bin/ folder. 
 
-Then you're done! Just think of all the knowledge you will have at your fingertips!
+The installation is now complete, so you can feel good to be contributing to our cloud based solutions and saving the environment. Basically, if you don't use this, you're killing the earth. You god damn nazi.
